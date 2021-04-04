@@ -1,0 +1,24 @@
+{
+  "name": "campaign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.3",
+    "firebase-admin": "^9.6.0",
+    "firebase-functions": "^3.13.2",
+    "fs-extra": "^4.0.3",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^4.0.1",
+    "next": "^10.0.7",
+    "next-routes": "^1.4.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui
